@@ -117,6 +117,7 @@
     <Compile Include="Bug\CustomIEnumerableBug.cs" />
     <Compile Include="Bug\AddingConfigurationForNonMatchingDestinationMemberBug.cs" />
     <Compile Include="Bug\DuplicateValuesBug.cs" />
+    <Compile Include="Bug\EnumConditionsBug.cs" />
     <Compile Include="Bug\EnumMatchingOnValue.cs" />
     <Compile Include="Bug\IgnoreAll.cs" />
     <Compile Include="Bug\InheritanceIssue.cs" />
@@ -125,6 +126,7 @@
     <Compile Include="Bug\MultiThreadingIssues.cs" />
     <Compile Include="Bug\NamingConventions.cs" />
     <Compile Include="Bug\NullableBytesAndEnums.cs" />
+    <Compile Include="Bug\RecognizeIxesBug.cs" />
     <Compile Include="Bug\RepeatedMappingConfigurationTest.cs" />
     <Compile Include="Bug\SequenceContainsNoElementsTest.cs">
       <SubType>Code</SubType>
@@ -133,6 +135,7 @@
     <Compile Include="ConditionalMapping.cs" />
     <Compile Include="Configuration\MapperConfigurationSpecs.cs" />
     <Compile Include="Constructors.cs" />
+    <Compile Include="ConversionOperators.cs" />
     <Compile Include="CustomFormatters.cs" />
     <Compile Include="CustomMapping.cs" />
     <Compile Include="DataReaderMapping.cs" />
@@ -151,6 +154,7 @@
     <Compile Include="Internal\PrimitiveExtensionsTester.cs" />
     <Compile Include="Internationalization.cs" />
     <Compile Include="Bug\LazyCollectionMapping.cs" />
+    <Compile Include="Mappers\NameValueCollectionMapperTests.cs" />
     <Compile Include="Mappers\TypeHelperTests.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -170,6 +174,7 @@
     <Compile Include="NullBehavior.cs" />
     <Compile Include="Profiles.cs" />
     <Compile Include="Regression.cs" />
+    <Compile Include="ReverseMapping.cs" />
     <Compile Include="TesterExtensions.cs" />
     <Compile Include="ConfigurationValidation.cs" />
     <Compile Include="ResolutionContextTester.cs" />
