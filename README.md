@@ -1,6 +1,8 @@
 <img src="http://automapper.org/img/white_logo.png" alt="AutoMapper" width="498" height="51">
 ================================
 
+[![Join the chat at https://gitter.im/asbjornu/AutoMapper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/asbjornu/AutoMapper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 What is AutoMapper?
 --------------------------------
 AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another. This type of code is rather dreary and boring to write, so why not invent a tool to do it for us?
